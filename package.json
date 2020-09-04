@@ -25,8 +25,8 @@
   },
   "browserslist": [
     "ie >= 11",
-    "safari >= 9",
-    "ios >= 9",
+    "safari >= 10",
+    "ios >= 10",
     "Android >= 5"
   ],
   "babel": {
